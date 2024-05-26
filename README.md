@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working my own machine learning project it is a very problem-solving project.<br>I'm very willing to collaborate with projects like web development, machine learning and AI.<br>I'm currently learning software engineering at Arba Minch university Ethiopia. 
+I'm currently working on my own machine learning project it is a very problem-solving project.<br>I'm very willing to collaborate with projects like web development, machine learning and AI.<br>I'm currently learning software engineering at Arba Minch university Ethiopia. 
 
 
 ## 🌐 Socials:
