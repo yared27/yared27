@@ -1,8 +1,11 @@
 # 💫 About Me:
 Hey, I'm Yared Alemayehu, a fourth-year Software Engineering student at Arba Minch University.
-I am a full-stack developer with expertise in modern technologies like Next.js, Tailwind CSS, and NestJS. I have a strong passion for ML and AI.
-I'm very eager to collaborate with others, expand my network, and learn from others while sharing my own knowledge.
-I believe in continuous growth, innovation, and working together to create meaningful projects.
+I am a full-stack developer with expertise in modern technologies like Next.js, 
+Tailwind CSS, and NestJS. I have a strong passion for ML and AI.
+I'm very eager to collaborate with others, expand my network, 
+and learn from others while sharing my own knowledge.
+I believe in continuous growth, innovation,
+and working together to create meaningful projects.
 
 
 ## 🌐 Socials:
