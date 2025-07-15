@@ -11,7 +11,6 @@ I’m also deeply interested in **Machine Learning** and **Artificial Intelligen
 ## 🚀 Currently Learning
 
 - 🛠️ **Backend Development** at [ALX](https://www.alxafrica.com/)  
-- 🧠 **Data Structures & Algorithms** at [A2SV](https://a2sv.org/)
 
 ---
 ## 🌐 Socials:
