@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm **Yared Alemayehu**, a fourth-year Software Engineering student at **Arba Minch University**.<br>I'm a passionate **full-stack developer** with hands-on experience in modern web technologies like **Next.js**, **Tailwind CSS**, and **Exressjs**.<br>I’m also deeply interested in **Machine Learning** and **Artificial Intelligence**, and I’m always seeking opportunities to grow, collaborate, and innovate.
+Hey, I'm **Yared Alemayehu** a 4th year Software Engineering student at Arba Minch University with a strong interest in backend development and machine learning. I’m always open to new challenges and committed to continuously improving my skills. I enjoy understanding how systems work under the hood and believe real growth comes from solving real world problems. I'm eager to contribute wherever I can while learning and getting better every step of the way
 
 
 ## 🌐 Socials:
