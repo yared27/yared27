@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey, I'm **Yared Alemayehu** a 4th year Software Engineering student at Arba Minch University with a strong interest in backend development and machine learning. I’m always open to new challenges and committed to continuously improving my skills. I enjoy understanding how systems work under the hood and believe real growth comes from solving real world problems. I'm eager to contribute wherever I can while learning and getting better every step of the way.
-
+Hey, I'm **Yared Alemayehu** a 4th year Software Engineering student at Arba Minch University with a strong interest in backend development and machine learning. I’m always open to new challenges and committed to continuously improving my skills. I enjoy understanding how systems work under the hood and believe real growth comes from solving real world problems. I'm eager to contribute wherever I can while learning and getting better every step of the way
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yared-alemayehu-661863296/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yared73) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alemayehuyared9@gmail.com) 
