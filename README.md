@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm **Yared Alemayehu** a 5th year Software Engineering student at Arba Minch University with a strong interest in backend development and machine learning. I’m always open to new challenges and committed to continuously improving my skills. I enjoy understanding how systems work under the hood and believe real growth comes from solving real world problems. I'm eager to contribute wherever I can while learning and getting better every step of the way
+Hey, I'm **Yared Alemayehu** a 5th year Software Engineering student at Arba Minch University with a strong interest in backend development and machine learning. I’m always open to new challenges and committed to continuously improving my skills. I enjoy understanding how systems work under the hood and believe real growth comes from solving real world problems. I'm eager to contribute wherever I can while learning and getting better every step of the way.
 ## [Portfolio](https://portfolio-bice-ten-86.vercel.app/)
 
 ## 🌐 Socials:
