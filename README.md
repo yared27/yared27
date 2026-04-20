@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hey, I'm **Yared Alemayehu** a 5th year Software Engineering student at Arba Minch University with a strong interest in backend development and machine learning. I’m always open to new challenges and committed to continuously improving my skills. I enjoy understanding how systems work under the hood and believe real growth comes from solving real world problems. I'm eager to contribute wherever I can while learning and getting better every step of the way.
+💫 About Me
+
+Hey, I’m Yared Alemayehu, a 5th-year Software Engineering student at Arba Minch University with a strong focus on backend development and full-stack web applications.
+
+I enjoy building practical systems using technologies like Node.js, Express, and React, and I’m especially interested in how scalable and efficient backend systems are designed. I also have an emerging interest in machine learning and how it can be applied to real-world problems.
+
+I’m continuously improving my skills through hands-on projects and collaborative development, and I’m motivated by solving real problems through clean and efficient code. My goal is to grow into a strong software engineer who builds reliable and impactful systems.
 ## [Portfolio](https://portfolio-bice-ten-86.vercel.app/)
 
 ## 🌐 Socials:
