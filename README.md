@@ -3,7 +3,7 @@
 Hey, I’m Yared Alemayehu, a 5th-year Software Engineering student at Arba Minch University with a strong focus on backend development and full-stack web applications.
 I enjoy building practical systems using technologies like Node.js, Express, and React, and I’m especially interested in how scalable and efficient backend systems are designed. I also have an emerging interest in machine learning and how it can be applied to real-world problems.
 I’m continuously improving my skills through hands-on projects and collaborative development, and I’m motivated by solving real problems through clean and efficient code. My goal is to grow into a strong software engineer who builds reliable and impactful systems
-## [Portfolio](https://portfolio-bice-ten-86.vercel.app/)
+## [Portfolio](https://portfolio-bice-ten-86.vercel.app/).
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yared-alemayehu-661863296/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/yared73) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alemayehuyared9@gmail.com) 
