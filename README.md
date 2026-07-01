@@ -2,7 +2,7 @@
 
 Hey, I’m Yared Alemayehu, a Software Engineering graduate from Arba Minch University focused on backend and full-stack development.
 
-I build practical systems using Go, Node.js, React, and Python, with interest in scalable backend systems and clean software architecture.
+I build practical systems using  Node.js, React, Python and Go with interest in scalable backend systems and clean software architecture.
 
 I enjoy solving real-world problems through code and continuously improving through hands-on projects and collaboration. My goal is to grow as a software engineer building reliable and impactful systems.
 ## [My Portfolio](https://portfolio-bice-ten-86.vercel.app/)
