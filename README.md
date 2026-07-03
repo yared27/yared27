@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yared Alemayehu</h1>
-<h3 align="center">Hey, I’m Yared Alemayehu, a Software Engineering graduate from Arba Minch University focused on backend and full-stack development I build practical systems using Node.js, React, Python and Go with interest in scalable backend systems and clean software architecture. I enjoy solving real-world problems through code and continuously improving through hands-on projects and collaboration. My goal is to grow as a software engineer building reliable and impactful systems.</h3>
+<h3 align="center">Hi, I'm Yared Alemayehu, a Software Engineering graduate from Arba Minch University and a full-stack software developer passionate about building modern web applications. I enjoy turning ideas into reliable, user-focused software and learning by building real projects. My current focus is on developing scalable applications and exploring AI integration to create practical solutions. I'm always looking to collaborate, learn, and build software that delivers real value.</h3>
 
 - 🔭 I’m currently working on **AI Customer Support Knowledge Base (RAG SaaS)**
 
 - 🌱 I’m currently learning
-- **Architecting AI-powered SaaS platforms with multi-tenant backend systems
--  Advanced LLM integration workflows (tool use, function calling, RAG optimization, agent workflows)
--  Scalable backend system design (event-driven architecture, caching, queues)
--  ecosystems Distributed system fundamentals and API performance optimization**
+  - **Architecting AI-powered SaaS platforms with multi-tenant backend systems
+  -  Advanced LLM integration workflows
+  -  Scalable backend system design
+  -  ecosystems Distributed system fundamentals and API performance optimization**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on full-stack web applications and backend systems, while exploring AI-powered solutions**
 
