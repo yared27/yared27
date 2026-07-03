@@ -1,5 +1,5 @@
 <h1 align="center>Hi 👋, I'm Yared Alemayehu</h1>
-<h3>Hi, I'm Yared Alemayehu, a Software Engineering graduate from Arba Minch University and a full-stack software developer passionate about building modern web applications. I enjoy turning ideas into reliable, user-focused software and learning by building real projects. My current focus is on developing scalable applications and exploring AI integration to create practical solutions. I'm always looking to collaborate, learn, and build software that delivers real value.</h3>
+<h3 align="left">Hi, I'm Yared Alemayehu, a Software Engineering graduate from Arba Minch University and a full-stack software developer passionate about building modern web applications. I enjoy turning ideas into reliable, user-focused software and learning by building real projects. My current focus is on developing scalable applications and exploring AI integration to create practical solutions. I'm always looking to collaborate, learn, and build software that delivers real value.</h3>
 
 - 🔭 I’m currently working on **AI Customer Support Knowledge Base (RAG SaaS)**
 
