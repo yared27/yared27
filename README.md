@@ -3,13 +3,18 @@
 
 - 🔭 I’m currently working on **AI Customer Support Knowledge Base (RAG SaaS)**
 
-- 🌱 I’m currently learning **Architecting AI-powered SaaS platforms with multi-tenant backend systems| Advanced LLM integration workflows (tool use, function calling, RAG optimization, agent workflows)| Scalable backend system design (event-driven architecture, caching, queues) | ecosystems Distributed system fundamentals and API performance optimization**
+- 🌱 I’m currently learning
+- **Architecting AI-powered SaaS platforms with multi-tenant backend systems
+-  Advanced LLM integration workflows (tool use, function calling, RAG optimization, agent workflows)
+-  Scalable backend system design (event-driven architecture, caching, queues)
+-  ecosystems Distributed system fundamentals and API performance optimization**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on full-stack web applications and backend systems, while exploring AI-powered solutions**
 
-- 👨‍💻 my portfolio [yaredtech.me](yaredtech.me)
+- 👨‍💻 my [portfolio](yaredtech.me)
 
-- 📫 How to reach me **alemayehuyared9@gmail.com| +251930833496**
+- 📫 How to reach me **alemayehuyared9@gmail.com
+- Phone +251930833496**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
