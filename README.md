@@ -56,14 +56,6 @@ Backend Software Engineer with experience building scalable web applications usi
 
 <br/>
 <p align="center">
-  <img
-    src="https://github-readme-stats-smoky-beta-63.vercel.app/api?username=yared27&show_icons=true&locale=en&theme=default"
-    alt="Yared's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=yared27&theme=default"
-    alt="Yared's GitHub Streak"
-    height="165"
-  />
+  <img src="https://github-readme-stats-smoky-beta-63.vercel.app/api?username=yared27&show_icons=true&locale=en&theme=default" alt="Yared's GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=yared27&theme=default" alt="Yared's GitHub Streak" height="165" />
 </p>
