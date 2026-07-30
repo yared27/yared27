@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yared Alemayehu.</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
+<h3 align="center">Backend Software Engineer with Full-Stack Experience</h3>
 
 <p align="center">
-Software Engineering graduate from Arba Minch University, strongest on the backend and actively growing into a well-rounded full-stack engineer. I care most about scalable architecture and writing code that's easy to maintain, and I learn best by shipping real projects, hitting real problems, and figuring out how to solve them cleanly. Right now, I'm sharpening my backend skills while building out my front-end depth  with the long-term goal of becoming an engineer known for building systems people can trust.
+Backend Software Engineer with experience building scalable web applications using Node.js, Express.js, Go, PostgreSQL, MongoDB, and React. Passionate about backend architecture, REST APIs, authentication systems, and building reliable software. Experienced shipping production-style projects and continuously exploring AI-powered applications and modern backend technologies.
 </p>
 
 <br/>
