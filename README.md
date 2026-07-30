@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yared Alemayehu.</h1>
 <h3 align="center">Backend Software Engineer with Full-Stack Experience</h3>
 
-<p align="center">
+<p align="left">
 Backend Software Engineer with experience building scalable web applications using Node.js, Express.js, Go, PostgreSQL, MongoDB, and React. Passionate about backend architecture, REST APIs, authentication systems, and building reliable software. Experienced shipping production-style projects and continuously exploring AI-powered applications and modern backend technologies.
 </p>
 
