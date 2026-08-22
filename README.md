@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Software Engineer </h3>
 
 <p align="left">
-Full-stack Software Engineer with experience building scalable web applications using Node.js, Express.js, Go, PostgreSQL, MongoDB, and React,Nextjs. Passionate about backend architecture, REST APIs, authentication systems, and building reliable software. Experienced shipping production-style projects and continuously exploring AI-powered applications and modern backend technologies.
+Full-stack Software Engineer with experience building scalable web applications using Node.js, Express.js, Go, PostgreSQL, MongoDB, and React,Nextjs. Passionate about backend architecture, REST APIs, authentication systems, and building reliable software. Experienced shipping production-style projects and continuously exploring AI-powered applications and modern backend technologies
 </p>
 
 <br/>
